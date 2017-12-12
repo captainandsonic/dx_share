@@ -1,2 +1,3 @@
 github ' file      
 write in win7 and then push
+delete origin file 1!!!!
