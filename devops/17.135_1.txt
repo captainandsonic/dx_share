@@ -1,7 +1,0 @@
-1111
-2222
-333333333
-add into stage ,and then rollback
-4444
-write in win7
-777777
